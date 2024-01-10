@@ -1,2 +1,2 @@
-/coverage
-/bin
+.DS_Store
+*.pyc
